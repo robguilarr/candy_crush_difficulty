@@ -5,7 +5,7 @@ This repository contains a project also published at [my website](https://www.ro
 
 
 <p align="center">
- <img width="50%" height="50%" src="https://www.pikpng.com/pngl/m/361-3617728_a-collaborative-effort-candy-crush-friends-characters-clipart.png">
+ <img width="50%" height="50%" src="https://us.v-cdn.net/6030983/uploads/editor/7u/87hxixsdjhul.png">
 </p>
 
 
