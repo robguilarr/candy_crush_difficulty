@@ -1,4 +1,4 @@
-# candy_crush_difficulty
+# Leveling Difficulty in Candy Crush Saga 
 Leveling Candy Crush Episode's difficulty using Bernoulli principles
 
 This repository contains a project also published at [my website](https://www.robguilar.com/posts/candy_crush_difficulty/ "Visit personal website")
